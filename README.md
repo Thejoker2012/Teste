@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Thejoker2012/Teste.svg?branch=master)](https://travis-ci.org/Thejoker2012/Teste)
+
 # Test Travis CI
 
 ## Project setup
